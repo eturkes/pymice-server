@@ -18,5 +18,11 @@
     Emir Turkes can be contacted at eturkes@bu.edu
 -->
 
-# pymice-server
-A web UI for server-based Intellicage analysis using PyMICE
+# PyMICE Server
+
+PyMICE Server has a similar workflow and functionality to PyMICE Analyzer but utilizes
+Wooey (https://github.com/wooey/Wooey) to create a Django-based web UI. A noteworthy
+advantage is that it is easily configured so that jobs are submitted to local or cloud
+servers for centralized, high-throughput analysis. For laboratories interesting in
+applying techniques with high hardware demands like machine learning, this may be a
+useful tool.
