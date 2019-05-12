@@ -19,7 +19,7 @@
 -->
 
 # PyMICE Server
-#### *This project is currently under unstable development*
+#### *This project is a work-in-progress*
 
 PyMICE Server has a similar workflow and functionality to PyMICE Analyzer but utilizes
 Wooey (https://github.com/wooey/Wooey) to create a Django-based web UI. A noteworthy
